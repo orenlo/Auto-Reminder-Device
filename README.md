@@ -26,7 +26,8 @@ Setup Instructions:
 •	Implement code on the base station to receive signals from your smartphone.
 •	Configure the smartphone app to send signals to the base station when you leave the geofenced area.
 5.	Notification Mechanism:
-•	Develop a notification system on the base station ESP32 to alert you if the glasses are not within range. https://www.youtube.com/watch?v=XRJBFWlOSJ8&ab_channel=CumulusCycles
+•	Develop a notification system on the base station ESP32 to alert you if the glasses are not within range. 
+         https://www.youtube.com/watch?v=XRJBFWlOSJ8&ab_channel=CumulusCycles
 
 •	Use AWS cloud to do so - https://www.youtube.com/watch?v=z8T4hAERuOg&ab_channel=AWSIoT
 •	Customize the notification to provide a reminder to bring your glasses.

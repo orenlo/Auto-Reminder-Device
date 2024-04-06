@@ -12,8 +12,8 @@ Equipment Required:
    
    
 Setup Instructions:
-1.	ESP32 Base Station Setup:
-•	Copy the code of the ESP32 boards as the base station. 
+1.	ESP32 Base Station Setup: 
+•	Copy the code of the ESP32 boards as the base station . 
 •	Connect the base station ESP32 to your Wi-Fi network.
 2.	ESP32 in the Glasses Case Setup:
 •	Copy the second ESP32 board to fit inside the glasses case.
@@ -26,7 +26,7 @@ Setup Instructions:
 •	Implement code on the base station to receive signals from your smartphone.
 •	Configure the smartphone app to send signals to the base station when you leave the geofenced area.
 5.	Notification Mechanism:
-•	Develop a notification system on the base station ESP32 to alert you if the glasses are not within range.https://www.youtube.com/watch?v=XRJBFWlOSJ8&ab_channel=CumulusCycles
+•	Develop a notification system on the base station ESP32 to alert you if the glasses are not within range. https://www.youtube.com/watch?v=XRJBFWlOSJ8&ab_channel=CumulusCycles
 •	Use AWS cloud to do so - https://www.youtube.com/watch?v=z8T4hAERuOg&ab_channel=AWSIoT
 •	Customize the notification to provide a reminder to bring your glasses.
 
